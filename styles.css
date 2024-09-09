@@ -1,0 +1,180 @@
+body {
+    color: darkmagenta;
+    background: bisque;
+    margin: 0px;
+    font-family: "Exo 2", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(108, 19, 143);
+    padding: 25px;
+    font-size: 45px;
+    color: rgb(108, 19, 143);
+}
+
+section {
+    background: rgb(245, 213, 175);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+}
+
+h1 {
+    font-size: 30px
+}
+
+h2 {
+    font-size: 50px
+}
+
+h3 {
+    font-size: 25px
+}
+
+p {
+    font-size: 25px
+}
+
+.sonochinosadamevídeo {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.sonochinosadametítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bloodystreamvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.bloodystreamtítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.standproudvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.standproudtítulo {
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+.sonochinokioukuvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.sonochinokioukutítulo {
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+.crazynoisybizarretownvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.crazynoisybizarretowntítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.chasevídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.chasetítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.greatdaysvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.greatdaystítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fightinggoldvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.fightinggoldtítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.traitorsrequiemvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.traitorsrequiemtítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.stoneoceanvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.stoneoceantítulo {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.heavensfallingdownvídeo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.heavensfallingdowntítulo {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.Todas {
+    padding-left: 25px;
+}
+
+.Aberturas {
+    display: flex;
+    justify-content: center;
+    font-family: "Grey Qo", cursive;
+}
+
+img {
+    height: 200px;
+}
+
+.aberturasvideos {
+    display: flex;
+    overflow-x: auto;
+}
+
+.aberturasvideos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.aberturasvideos img:hover {
+    opacity: 1.0;
+}
+
+.aberturasvideos {
+    padding-left: 20px;
+    padding-right: 20px;
+}
